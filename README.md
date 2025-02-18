@@ -1,9 +1,9 @@
 # Fine-Tuning VGG19 on the CIFAR100 Dataset
 
-## Cifar100
+## CIFAR100
 <img width="1409" alt="Screenshot 2025-02-18 at 23 17 52" src="https://github.com/user-attachments/assets/96efe285-a547-4b16-b74e-c07102c84432" />  
 
-## Module OverView - Similar module as CIFAR10
+## Model Overview - Similar to CIFAR10
 <img width="909" alt="Screenshot 2025-02-18 at 23 23 49" src="https://github.com/user-attachments/assets/23eda74f-3915-41a8-9774-3b224e4823d0" />
 
 ## Description
